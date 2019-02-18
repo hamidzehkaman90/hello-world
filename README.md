@@ -1,2 +1,2 @@
-# hello-wprld
+# hello-world
 just a repository
